@@ -1,0 +1,11 @@
+url: https://3trinity.github.io/Evergreen
+email: username@gmail.com
+linkedin: https://linkedin.com/in/username
+youtube: https://youtube.com/@username
+instagram: https://instagram.com/username
+permalink: read/:date/post-:title
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins:
+  - jekyll-sitemap
