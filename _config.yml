@@ -3,7 +3,7 @@ email: username@gmail.com
 linkedin: https://linkedin.com/in/username
 youtube: https://youtube.com/@username
 instagram: https://instagram.com/username
-permalink: read/:date/post-:title
+permalink: read/post-:title
 markdown: kramdown
 kramdown:
   input: GFM
